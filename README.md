@@ -24,11 +24,11 @@ app would rerender to display new list of color set relate to tints and shades, 
 To achieve that, I add three function components: Form.jsx, ColorList.jsx, and SingleColor.jsx
 
 Those are the purpose of them:
-Form.jsx: put a color inputpicker and input here, decide a color send to App.jsx, and App.jsx will trigger setColor function for updating the list of color set (setColor would be stored as _userState_);
+* Form.jsx: put a color inputpicker and input here, decide a color send to App.jsx, and App.jsx will trigger setColor function for updating the list of color set (setColor would be stored as _userState_);
 
-ColorList.jsx: template for list of color set. import SingleColor component, mapping list with SingleColor, and use nanoid as attribute 'key' put on that.
+* ColorList.jsx: template for list of color set. import SingleColor component, mapping list with SingleColor, and use nanoid as attribute 'key' put on that.
 
-SingleColor.jsx: template for card of color displaying value of weight and hex.
+* SingleColor.jsx: template for card of color displaying value of weight and hex.
 
 Use _Toast_ display state of interaction with app by showing text message. 
 
