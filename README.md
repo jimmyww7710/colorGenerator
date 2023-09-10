@@ -1,7 +1,7 @@
 # colorGenerator
 a color generator using react.js.
 
-## technologies
+## Technologies
 * react.js: 4.0.1
 * nanoid: 18.2.0
 * values: 2.1.1
@@ -17,7 +17,7 @@ or see demo on: https://jwclrgenerator.netlify.app/
 ## Inspiration
 I went through the color generator lesson from Udemy course "React 18 Tutorial and Projects Course (2023)" by John Smilga, built this app successfully.
 
-## what I learned from this project
+## What I learned from this project
 The main target for this project is for building a color generator. There would be set a input for typing color string of hex. after confirming by clicking the submit button. 
 app would rerender to display new list of color set relate to tints and shades, base on original color( the original color would be displayed also). 
 
