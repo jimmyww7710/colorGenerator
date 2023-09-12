@@ -2,8 +2,8 @@
 a color generator using react.js.
 
 ## Technologies
-* react.js: 4.0.1
-* nanoid: 18.2.0
+* react.js: 18.2.0
+* nanoid: 4.0.1
 * values: 2.1.1
 * vite: 4.1.0
 
