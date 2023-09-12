@@ -8,8 +8,8 @@ a color generator using react.js.
 * vite: 4.1.0
 
 ## Setup
-To run this project, install it locally using npm:
-$ npm install
+To run this project, install it locally using npm:\
+$ npm install\
 $ npm dev
 
 or see demo on: https://jwclrgenerator.netlify.app/
